@@ -1,9 +1,9 @@
 <!-- [![](https://flat.badgen.net/badge/DOI/10.5281%2Fzenodo.4562010/green?scale=1.5)](https://doi.org/10.5281/zenodo.4562010) -->
 <!-- [![](https://flat.badgen.net/docker/size/tyronechen/multiomics/1.0.0/amd64?scale=1.5&color=black)](https://hub.docker.com/repository/docker/tyronechen/multiomics) -->
-[![](https://readthedocs.org/projects/genomenlp/badge/?version=latest&style=for-the-badge)](https://genomenlp_tutorials.readthedocs.io/en/latest/)
+[![](https://readthedocs.org/projects/genomenlp/badge/?version=latest&style=for-the-badge)](https://kcap_2023.readthedocs.io/en/latest/)
 [![](https://flat.badgen.net/badge/license/MIT/cyan?scale=1.5)](https://opensource.org/licenses/MIT)
-[![](https://flat.badgen.net/badge/icon/gitlab?icon=gitlab&label&color=orange&scale=1.5)](https://gitlab.com/tyagilab/genomenlp_tutorials)
-[![](https://flat.badgen.net/badge/icon/github?icon=github&label&color=black&scale=1.5)](https://github.com/tyronechen/genomenlp_tutorials)
+[![](https://flat.badgen.net/badge/icon/gitlab?icon=gitlab&label&color=orange&scale=1.5)](https://gitlab.com/tyagilab/kcap_2023)
+[![](https://flat.badgen.net/badge/icon/github?icon=github&label&color=black&scale=1.5)](https://github.com/tyronechen/kcap_2023)
 [![](https://flat.badgen.net/badge/icon/@tyagilab?icon=twitter&label&scale=1.5)](https://twitter.com/tyagilab)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10121563.svg)](https://doi.org/10.5281/zenodo.10121563)
 [![check in Biotreasury](https://img.shields.io/badge/Biotreasury-collected-brightgreen)](https://biotreasury.rjmart.cn/#/tool?id=77713)
@@ -14,7 +14,7 @@
 
 # Tutorials and workshops for genomeNLP - From sequences to words: a computational linguistics toolkit for genomic data.
 
-> **NOTE**: The [main repository is on github](https://github.com/tyronechen/genomenlp_tutorials) but is also mirrored on [gitlab](https://gitlab.com/tyagilab/genomenlp_tutorials). Please submit any issues to the main github repository only.
+> **NOTE**: The [main repository is on github](https://github.com/tyronechen/kcap_2023) but is also mirrored on [gitlab](https://gitlab.com/tyagilab/kcap_2023). Please submit any issues to the main github repository only.
 
 Copyright (c) 2022 <a href="https://orcid.org/0000-0002-9207-0385">Tyrone Chen <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, <a href="https://orcid.org/0000-0002-8797-3168">Navya Tyagi <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, Sarthak Chauhan, <a href="https://orcid.org/0000-0002-2296-2126">Anton Y. Peleg <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, and <a href="https://orcid.org/0000-0003-0181-6258">Sonika Tyagi <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>.
 
@@ -133,7 +133,7 @@ You should then be able to run the scripts manually from ``src/genomenlp``. As w
 
 Please refer to the documentation for detailed usage information of the package and the ``genomicBERT`` pipeline.
 
-[![](https://readthedocs.org/projects/genomenlp_tutorials/badge/?version=latest&style=for-the-badge)](https://genomenlp_tutorials.readthedocs.io/en/latest/)
+[![](https://readthedocs.org/projects/genomenlp_tutorials/badge/?version=latest&style=for-the-badge)](https://kcap_2023.readthedocs.io/en/latest/)
 
 ## Acknowledgements
 
