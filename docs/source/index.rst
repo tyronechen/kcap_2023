@@ -1,4 +1,4 @@
-Welcome to genomeNLP's tutorials and workshops!
+Welcome to genomeNLP's tutorial for K-CAP 2023!
 ===============================================
 
 .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.8135590.svg
@@ -35,7 +35,7 @@ Welcome to genomeNLP's tutorials and workshops!
 
   `The main code repository is on github`_ but also mirrored on gitlab. Please submit any issues to the main github repository only.
 
-.. _The main code repository is on github: https://github.com/tyronechen/genomenlp
+.. _The main code repository is on github: https://github.com/tyronechen/kcap_2023
 
 .. toctree::
   :maxdepth: 1
