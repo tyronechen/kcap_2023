@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'genomeNLP'
-copyright = '2022, Tyrone Chen'
+project = 'K-CAP 2023'
+copyright = '2023, Tyrone Chen'
 author = 'Tyrone Chen'
 
 # -- General configuration ---------------------------------------------------
