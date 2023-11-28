@@ -1,5 +1,5 @@
-Welcome to the INCOB 2023 Introduction to Machine Learning in Bioinformatics Workshop!
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Welcome to the K-CAP 2023 Decoding the grammar of DNA using Natural Language Processing tutorial!
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.10121563.svg
   :target: https://doi.org/10.5281/zenodo.10121563
@@ -21,11 +21,11 @@ Tutorial and workshop content is provided under a `CC-BY-3.0 AU license`_.
 Overview
 ========
 
-The Introduction to Machine Learning and Bioinformatics Workshop is short interactive workshop to introduce basic concepts of machine learning predictive modeling for genomics data. This workshop is given as part of the `22nd International Conference on Bioinformatics`_. 
+The Decoding the grammar of DNA using Natural Language Processing tutorial is short interactive tutorial to introduce basic concepts of machine learning predictive modeling for genomics data. This tutorial is given as part of the `The Twelfth International Conference on Knowledge Capture`_. 
 
 Please feel free to contact us directly if you have any questions about the workshop contents, machine learning, or if you have questions in this space and wish to collaborate with us. We can be contacted through email at tyrone.chen@monash.edu and sonika.tyagi@rmit.edu.au. If you find a bug or issue with the tutorial code, please feel free to submit an issue.
 
-.. _22nd International Conference on Bioinformatics: https://incob.apbionet.org/incob23/
+.. _The Twelfth International Conference on Knowledge Capture: https://www.k-cap.org/2023/tutorials.html
 
 .. raw:: html
 
@@ -37,7 +37,7 @@ Please feel free to contact us directly if you have any questions about the work
 Acknowledgements
 ================
 
-Content of the workshop was developed by members of the `Tyagi Lab`_ and the Australian Bioinformatics and Computational Biology Student Society, (`COMBINE`_), a Research Student Group which is part of the International Society for Computational Biology (RSG `ISCB`_ AU). The workshop was supported by `Australian BioCommons`_ through the provision of compute resources and assistance in setting up the training environments made available to the workshop participants. We thank all collaborators and service providers for their support.
+Content of the workshop was developed by members of the `Tyagi Lab`_. This research was supported by use of the `Nectar`_ Research Cloud, a collaborative Australian research platform supported by the NCRIS-funded Australian Research Data Commons (ARDC). We thank all collaborators and service providers for their support.
 
 .. _Australian BioCommons: https://www.biocommons.org.au
 
@@ -47,29 +47,19 @@ Content of the workshop was developed by members of the `Tyagi Lab`_ and the Aus
 
 .. _Tyagi lab: https://bioinformaticslab.erc.monash.edu/
 
+.. _Nectar: https://dashboard.rc.nectar.org.au/
+
 The `Tyagi lab`_'s expertise is in implementing Bioinformatics methods and machine learning models to solve biological research and clinical outcome questions. The two research focus areas for the group are: (A) multimodal data integration for personalised medicine and (B) integrative genomics. (A) We utilise cutting edge AI and genomics technologies with significant outcomes for the academic and clinical communities to discover new treatments and improve healthcare. Our approach employs machine learning methods to automatically learn complex features from individual data types, and harmonise heterogeneous multimodal information. (B) Our research interest in integrative genomics is to combine data from multiple genomics layers to generate gene regulatory signatures. We have developed computational methods to integrate epigenomics and transcriptomics data. We study non-coding parts of the genome comprising DNA regulatory elements such as promoters and enhancers and genomic regions encoding for small and long non-coding RNAs (ncRNA). You can contact Sonika Tyagi directly at sonika.tyagi@rmit.edu.au.
-
-`COMBINE`_ is a national student society for students in computational biology, bioinformatics, and related fields. COMBINE is the student subcommittee of The Australian Bioinformatics And Computational Biology Society (ABACBS) as well as the official International Society for Computational Biology (`ISCB`_) Regional Student Group (RSG) for Australia. We aim to bring together students and early-career researchers from the computational and life sciences for networking, collaboration, and professional development. We hold regular workshops, career events, seminars and a yearly symposium, with hundreds of active attendees across Australia and internationally.
-
-.. image:: ../../fig/combine_1.png
-
-.. image:: ../../fig/combine_2.png
-
-`Australian BioCommons`_ is a project that actively supports Australian life scientists by providing national scale research infrastructure. BioCommons is enabled by Australian Government via Bioplatforms Australia funding under the National Collaborative Research Infrastructure Strategy. BioCommons services are fully subsidised for Australian researchers and students to use. BioCommons also delivers bioinformatics training at a national scale through a wide array of webinars, workshops and events that keep participants connected to the latest skills and global developments.
-
-.. image:: ../../fig/abc_1.png
-
-.. image:: ../../fig/abc_2.png
 
 Date and time
 =============
 
-12-15 November, 2023.
+5-7 December, 2023.
 
 Location
 ========
 
-The `22nd International Conference on Bioinformatics`_, Translational Research Institute (TRI), Brisbane, Australia.
+The `The Twelfth International Conference on Knowledge Capture`_, Florida Institute for Human and Machine Cognition, Pensacola, Florida, United States.
 
 
 Instructors and contributors to lesson material
@@ -173,7 +163,7 @@ Glossary
 Introduction to machine learning
 --------------------------------
 
-`View slides here. <https://github.com/tyronechen/genomenlp_tutorials/blob/main/etc/2023-11-incob.pdf>`_
+`View slides here. <https://github.com/tyronechen/kcap_2023/blob/main/etc/2023-11-incob.pdf>`_
 
 What is NLP and genomics
 ------------------------
