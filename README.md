@@ -133,7 +133,7 @@ You should then be able to run the scripts manually from ``src/genomenlp``. As w
 
 Please refer to the documentation for detailed usage information of the package and the ``genomicBERT`` pipeline.
 
-[![](https://readthedocs.org/projects/genomenlp_tutorials/badge/?version=latest&style=for-the-badge)](https://kcap_2023.readthedocs.io/en/latest/)
+[![](https://readthedocs.org/projects/genomenlp/badge/?version=latest&style=for-the-badge)](https://genomenlp.readthedocs.io/en/latest/)
 
 ## Acknowledgements
 
