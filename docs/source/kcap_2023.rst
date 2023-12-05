@@ -156,7 +156,7 @@ Glossary
 Introduction to machine learning
 --------------------------------
 
-`View slides here. <https://github.com/tyronechen/kcap_2023/blob/main/etc/2023-11-incob.pdf>`_
+`View slides here. <https://github.com/tyronechen/kcap_2023/blob/main/etc/2023-12-05-KCAP.pdf>`_
 
 What is NLP and genomics
 ------------------------
