@@ -27,6 +27,8 @@ Please feel free to contact us directly if you have any questions about the work
 
 .. _The Twelfth International Conference on Knowledge Capture: https://www.k-cap.org/2023/tutorials.html
 
+.. image:: fig/kcap2023.png
+
 Acknowledgements
 ================
 
